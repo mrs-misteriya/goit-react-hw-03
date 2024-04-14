@@ -1,0 +1,29 @@
+
+.contact{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+
+.info{
+display: flex;
+flex-direction: column;
+margin-right: 5px;
+}
+
+.article{
+padding: 2px;
+margin: 0px;
+}
+
+.icon{
+    padding-right: 5px;
+}
+
+.btn{
+height: fit-content;
+font-size: 14px;
+border: 1px solid black;
+border-radius: 5px;
+}
