@@ -5,6 +5,8 @@
 }
 
 .items {
+    display: flex;
+    flex-wrap: wrap;
     list-style: none;
     display: flex;
     margin: 0;
@@ -12,9 +14,7 @@
 }
 
 .item{
-display: flex;
-width: 250px;
-
+width: 210px;
 margin-top: 8px;
 margin-right: 8px;
 margin-bottom: 8px;
